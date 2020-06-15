@@ -1,7 +1,10 @@
-welcom to class
+welcome to lw cloud
+<br />
 
+<pre>
 <?php
 
 print `ifconfig`;
 
 ?>
+</pre>
